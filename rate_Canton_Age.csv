@@ -1,0 +1,262 @@
+,Region,Canton,Age_Category,Unemployement_Rate,Unemployement_Rate_young,Registered_unemployed,Unemployed_Young,Unemployed_Long_Period,Job_seekers,Job_seekers_Employed
+0,Suisse alémanique,Zurich,15-19 ans,3.9,3.9,1223,1223,20,1394,171
+1,Suisse alémanique,Zurich,20-24 ans,3.7,3.7,2197,2197,57,2455,258
+2,Suisse alémanique,Zurich,25-29 ans,3.5,0,3131,0,351,3797,666
+3,Suisse alémanique,Zurich,30-34 ans,3.7,0,3945,0,600,4871,926
+4,Suisse alémanique,Zurich,35-39 ans,3.8,0,3754,0,614,4695,941
+5,Suisse alémanique,Zurich,40-44 ans,3.2,0,3220,0,539,4040,820
+6,Suisse alémanique,Zurich,45-49 ans,2.9,0,3003,0,610,3868,865
+7,Suisse alémanique,Zurich,50-54 ans,3.1,0,2878,0,621,3778,900
+8,Suisse alémanique,Zurich,55-59 ans,3.2,0,2286,0,664,3077,791
+9,Suisse alémanique,Zurich,60 ans et plus,2.5,0,1588,0,677,2181,593
+10,Suisse alémanique,Berne,15-19 ans,2.2,2.2,569,569,7,686,117
+11,Suisse alémanique,Berne,20-24 ans,3.1,3.1,1434,1434,32,1719,285
+12,Suisse alémanique,Berne,25-29 ans,3,0,1696,0,179,2211,515
+13,Suisse alémanique,Berne,30-34 ans,2.9,0,1764,0,226,2346,582
+14,Suisse alémanique,Berne,35-39 ans,2.8,0,1591,0,251,2154,563
+15,Suisse alémanique,Berne,40-44 ans,2,0,1300,0,243,1806,506
+16,Suisse alémanique,Berne,45-49 ans,2,0,1422,0,282,1976,554
+17,Suisse alémanique,Berne,50-54 ans,2.1,0,1447,0,308,2070,623
+18,Suisse alémanique,Berne,55-59 ans,2.2,0,1298,0,344,1815,517
+19,Suisse alémanique,Berne,60 ans et plus,2.2,0,1137,0,464,1602,465
+20,Suisse alémanique,Lucerne,15-19 ans,2.1,2.1,232,232,7,327,95
+21,Suisse alémanique,Lucerne,20-24 ans,2.1,2.1,432,432,12,570,138
+22,Suisse alémanique,Lucerne,25-29 ans,2,0,498,0,32,793,295
+23,Suisse alémanique,Lucerne,30-34 ans,2,0,483,0,36,841,358
+24,Suisse alémanique,Lucerne,35-39 ans,1.9,0,439,0,60,737,298
+25,Suisse alémanique,Lucerne,40-44 ans,1.4,0,362,0,31,676,314
+26,Suisse alémanique,Lucerne,45-49 ans,1.3,0,377,0,51,714,337
+27,Suisse alémanique,Lucerne,50-54 ans,1.5,0,402,0,56,824,422
+28,Suisse alémanique,Lucerne,55-59 ans,1.9,0,388,0,83,763,375
+29,Suisse alémanique,Lucerne,60 ans et plus,1.5,0,272,0,85,511,239
+30,Suisse alémanique,Uri,15-19 ans,0.4,0.4,5,5,0,6,1
+31,Suisse alémanique,Uri,20-24 ans,0.6,0.6,10,10,0,18,8
+32,Suisse alémanique,Uri,25-29 ans,0.8,0,16,0,0,35,19
+33,Suisse alémanique,Uri,30-34 ans,0.6,0,11,0,1,31,20
+34,Suisse alémanique,Uri,35-39 ans,0.5,0,8,0,1,24,16
+35,Suisse alémanique,Uri,40-44 ans,0.3,0,6,0,2,13,7
+36,Suisse alémanique,Uri,45-49 ans,0.6,0,17,0,2,36,19
+37,Suisse alémanique,Uri,50-54 ans,0.6,0,14,0,3,40,26
+38,Suisse alémanique,Uri,55-59 ans,0.9,0,16,0,2,36,20
+39,Suisse alémanique,Uri,60 ans et plus,0.6,0,9,0,2,18,9
+40,Suisse alémanique,Schwyz,15-19 ans,1.3,1.3,57,57,0,61,4
+41,Suisse alémanique,Schwyz,20-24 ans,1.7,1.7,128,128,1,168,40
+42,Suisse alémanique,Schwyz,25-29 ans,1.4,0,127,0,4,192,65
+43,Suisse alémanique,Schwyz,30-34 ans,1.7,0,145,0,10,208,63
+44,Suisse alémanique,Schwyz,35-39 ans,1.4,0,122,0,10,206,84
+45,Suisse alémanique,Schwyz,40-44 ans,1.7,0,172,0,19,259,87
+46,Suisse alémanique,Schwyz,45-49 ans,1.6,0,193,0,28,310,117
+47,Suisse alémanique,Schwyz,50-54 ans,1.6,0,184,0,35,312,128
+48,Suisse alémanique,Schwyz,55-59 ans,2.3,0,191,0,36,297,106
+49,Suisse alémanique,Schwyz,60 ans et plus,1.9,0,136,0,46,216,80
+50,Suisse alémanique,Obwald,15-19 ans,0.4,0.4,5,5,0,5,0
+51,Suisse alémanique,Obwald,20-24 ans,0.9,0.9,16,16,0,29,13
+52,Suisse alémanique,Obwald,25-29 ans,0.8,0,17,0,1,35,18
+53,Suisse alémanique,Obwald,30-34 ans,0.7,0,14,0,0,28,14
+54,Suisse alémanique,Obwald,35-39 ans,0.6,0,12,0,1,28,16
+55,Suisse alémanique,Obwald,40-44 ans,1,0,23,0,0,42,19
+56,Suisse alémanique,Obwald,45-49 ans,0.4,0,12,0,1,36,24
+57,Suisse alémanique,Obwald,50-54 ans,0.6,0,15,0,1,37,22
+58,Suisse alémanique,Obwald,55-59 ans,1,0,21,0,3,46,25
+59,Suisse alémanique,Obwald,60 ans et plus,0.9,0,18,0,3,33,15
+60,Suisse alémanique,Nidwald,15-19 ans,0.5,0.5,6,6,0,9,3
+61,Suisse alémanique,Nidwald,20-24 ans,1.2,1.2,25,25,0,37,12
+62,Suisse alémanique,Nidwald,25-29 ans,0.5,0,14,0,0,32,18
+63,Suisse alémanique,Nidwald,30-34 ans,1.6,0,34,0,1,59,25
+64,Suisse alémanique,Nidwald,35-39 ans,0.9,0,22,0,3,37,15
+65,Suisse alémanique,Nidwald,40-44 ans,0.8,0,20,0,1,39,19
+66,Suisse alémanique,Nidwald,45-49 ans,0.9,0,33,0,4,58,25
+67,Suisse alémanique,Nidwald,50-54 ans,1.2,0,39,0,6,63,24
+68,Suisse alémanique,Nidwald,55-59 ans,1.4,0,33,0,5,60,27
+69,Suisse alémanique,Nidwald,60 ans et plus,1.1,0,22,0,4,42,20
+70,Suisse alémanique,Glaris,15-19 ans,1.2,1.2,16,16,0,17,1
+71,Suisse alémanique,Glaris,20-24 ans,2.2,2.2,44,44,0,65,21
+72,Suisse alémanique,Glaris,25-29 ans,2.2,0,59,0,10,85,26
+73,Suisse alémanique,Glaris,30-34 ans,2,0,41,0,1,74,33
+74,Suisse alémanique,Glaris,35-39 ans,1.5,0,31,0,3,66,35
+75,Suisse alémanique,Glaris,40-44 ans,1.6,0,39,0,10,69,30
+76,Suisse alémanique,Glaris,45-49 ans,1.5,0,41,0,4,77,36
+77,Suisse alémanique,Glaris,50-54 ans,1.7,0,45,0,11,81,36
+78,Suisse alémanique,Glaris,55-59 ans,2.3,0,56,0,20,100,44
+79,Suisse alémanique,Glaris,60 ans et plus,2.4,0,44,0,19,79,35
+80,Suisse alémanique,Zoug,15-19 ans,1.4,1.4,36,36,0,62,26
+81,Suisse alémanique,Zoug,20-24 ans,2.1,2.1,97,97,1,167,70
+82,Suisse alémanique,Zoug,25-29 ans,2.3,0,146,0,15,241,95
+83,Suisse alémanique,Zoug,30-34 ans,2.6,0,201,0,27,323,122
+84,Suisse alémanique,Zoug,35-39 ans,2.4,0,184,0,17,312,128
+85,Suisse alémanique,Zoug,40-44 ans,2.4,0,198,0,27,311,113
+86,Suisse alémanique,Zoug,45-49 ans,2.1,0,206,0,35,331,125
+87,Suisse alémanique,Zoug,50-54 ans,2.6,0,215,0,45,375,160
+88,Suisse alémanique,Zoug,55-59 ans,2.3,0,150,0,44,290,140
+89,Suisse alémanique,Zoug,60 ans et plus,1.9,0,110,0,37,203,93
+90,Suisse alémanique,Soleure,15-19 ans,2.6,2.6,186,186,2,317,131
+91,Suisse alémanique,Soleure,20-24 ans,3.1,3.1,398,398,3,565,167
+92,Suisse alémanique,Soleure,25-29 ans,3,0,454,0,38,815,361
+93,Suisse alémanique,Soleure,30-34 ans,3.4,0,483,0,64,873,390
+94,Suisse alémanique,Soleure,35-39 ans,2.6,0,361,0,34,697,336
+95,Suisse alémanique,Soleure,40-44 ans,2,0,314,0,48,609,295
+96,Suisse alémanique,Soleure,45-49 ans,1.9,0,379,0,69,659,280
+97,Suisse alémanique,Soleure,50-54 ans,2.3,0,442,0,62,787,345
+98,Suisse alémanique,Soleure,55-59 ans,2.8,0,428,0,102,738,310
+99,Suisse alémanique,Soleure,60 ans et plus,2.9,0,356,0,146,568,212
+100,Suisse alémanique,Bâle-Ville,15-19 ans,5.4,5.4,119,119,2,186,67
+101,Suisse alémanique,Bâle-Ville,20-24 ans,4.1,4.1,289,289,4,361,72
+102,Suisse alémanique,Bâle-Ville,25-29 ans,3.8,0,460,0,54,664,204
+103,Suisse alémanique,Bâle-Ville,30-34 ans,4.2,0,569,0,71,820,251
+104,Suisse alémanique,Bâle-Ville,35-39 ans,3.7,0,478,0,85,737,259
+105,Suisse alémanique,Bâle-Ville,40-44 ans,3.7,0,415,0,83,610,195
+106,Suisse alémanique,Bâle-Ville,45-49 ans,2.8,0,340,0,66,541,201
+107,Suisse alémanique,Bâle-Ville,50-54 ans,2.8,0,313,0,60,511,198
+108,Suisse alémanique,Bâle-Ville,55-59 ans,3,0,273,0,84,428,155
+109,Suisse alémanique,Bâle-Ville,60 ans et plus,2.5,0,199,0,97,310,111
+110,Suisse alémanique,Bâle-Campagne,15-19 ans,1.7,1.7,88,88,0,93,5
+111,Suisse alémanique,Bâle-Campagne,20-24 ans,3.9,3.9,436,436,5,514,78
+112,Suisse alémanique,Bâle-Campagne,25-29 ans,3.6,0,514,0,48,688,174
+113,Suisse alémanique,Bâle-Campagne,30-34 ans,3.6,0,526,0,61,710,184
+114,Suisse alémanique,Bâle-Campagne,35-39 ans,3,0,454,0,59,623,169
+115,Suisse alémanique,Bâle-Campagne,40-44 ans,2.3,0,414,0,71,581,167
+116,Suisse alémanique,Bâle-Campagne,45-49 ans,2.2,0,451,0,81,629,178
+117,Suisse alémanique,Bâle-Campagne,50-54 ans,2.2,0,436,0,71,623,187
+118,Suisse alémanique,Bâle-Campagne,55-59 ans,2.7,0,430,0,103,612,182
+119,Suisse alémanique,Bâle-Campagne,60 ans et plus,2.6,0,333,0,152,467,134
+120,Suisse alémanique,Schaffhouse,15-19 ans,2.8,2.8,61,61,0,99,38
+121,Suisse alémanique,Schaffhouse,20-24 ans,4.4,4.4,165,165,7,262,97
+122,Suisse alémanique,Schaffhouse,25-29 ans,3.7,0,159,0,17,275,116
+123,Suisse alémanique,Schaffhouse,30-34 ans,3.7,0,162,0,38,287,125
+124,Suisse alémanique,Schaffhouse,35-39 ans,3,0,130,0,31,254,124
+125,Suisse alémanique,Schaffhouse,40-44 ans,2.8,0,131,0,26,251,120
+126,Suisse alémanique,Schaffhouse,45-49 ans,2.6,0,140,0,34,260,120
+127,Suisse alémanique,Schaffhouse,50-54 ans,2.6,0,150,0,39,279,129
+128,Suisse alémanique,Schaffhouse,55-59 ans,2.2,0,101,0,31,215,114
+129,Suisse alémanique,Schaffhouse,60 ans et plus,2.1,0,87,0,45,146,59
+130,Suisse alémanique,Appenzell Rhodes-Extérieures,15-19 ans,0.6,0.6,10,10,1,14,4
+131,Suisse alémanique,Appenzell Rhodes-Extérieures,20-24 ans,2,2,55,55,0,87,32
+132,Suisse alémanique,Appenzell Rhodes-Extérieures,25-29 ans,2.3,0,60,0,7,101,41
+133,Suisse alémanique,Appenzell Rhodes-Extérieures,30-34 ans,1.7,0,45,0,3,82,37
+134,Suisse alémanique,Appenzell Rhodes-Extérieures,35-39 ans,1.6,0,46,0,6,76,30
+135,Suisse alémanique,Appenzell Rhodes-Extérieures,40-44 ans,1.5,0,53,0,2,83,30
+136,Suisse alémanique,Appenzell Rhodes-Extérieures,45-49 ans,1.5,0,55,0,5,93,38
+137,Suisse alémanique,Appenzell Rhodes-Extérieures,50-54 ans,1.9,0,83,0,27,134,51
+138,Suisse alémanique,Appenzell Rhodes-Extérieures,55-59 ans,1.9,0,66,0,22,117,51
+139,Suisse alémanique,Appenzell Rhodes-Extérieures,60 ans et plus,1.7,0,50,0,22,79,29
+140,Suisse alémanique,Appenzell Rhodes-Intérieures,15-19 ans,...,...,2,2,0,3,1
+141,Suisse alémanique,Appenzell Rhodes-Intérieures,20-24 ans,1.6,1.6,14,14,1,15,1
+142,Suisse alémanique,Appenzell Rhodes-Intérieures,25-29 ans,0.4,0,4,0,0,6,2
+143,Suisse alémanique,Appenzell Rhodes-Intérieures,30-34 ans,...,0,5,0,1,10,5
+144,Suisse alémanique,Appenzell Rhodes-Intérieures,35-39 ans,...,0,8,0,1,11,3
+145,Suisse alémanique,Appenzell Rhodes-Intérieures,40-44 ans,0.2,0,2,0,1,5,3
+146,Suisse alémanique,Appenzell Rhodes-Intérieures,45-49 ans,0.4,0,5,0,0,10,5
+147,Suisse alémanique,Appenzell Rhodes-Intérieures,50-54 ans,0.5,0,5,0,0,9,4
+148,Suisse alémanique,Appenzell Rhodes-Intérieures,55-59 ans,...,0,9,0,3,15,6
+149,Suisse alémanique,Appenzell Rhodes-Intérieures,60 ans et plus,...,0,8,0,2,18,10
+150,Suisse alémanique,St-Gall,15-19 ans,2,2,314,314,0,448,134
+151,Suisse alémanique,St-Gall,20-24 ans,2.6,2.6,732,732,12,1041,309
+152,Suisse alémanique,St-Gall,25-29 ans,2.8,0,879,0,76,1387,508
+153,Suisse alémanique,St-Gall,30-34 ans,2.5,0,758,0,77,1308,550
+154,Suisse alémanique,St-Gall,35-39 ans,2.4,0,646,0,79,1098,452
+155,Suisse alémanique,St-Gall,40-44 ans,1.9,0,558,0,71,991,433
+156,Suisse alémanique,St-Gall,45-49 ans,1.5,0,553,0,86,1041,488
+157,Suisse alémanique,St-Gall,50-54 ans,1.9,0,610,0,113,1172,562
+158,Suisse alémanique,St-Gall,55-59 ans,2.2,0,559,0,144,1000,441
+159,Suisse alémanique,St-Gall,60 ans et plus,2.3,0,518,0,208,877,359
+160,Suisse alémanique,Grisons,15-19 ans,1,1,49,49,0,68,19
+161,Suisse alémanique,Grisons,20-24 ans,1.6,1.6,145,145,0,217,72
+162,Suisse alémanique,Grisons,25-29 ans,1.3,0,142,0,4,284,142
+163,Suisse alémanique,Grisons,30-34 ans,1.2,0,134,0,4,277,143
+164,Suisse alémanique,Grisons,35-39 ans,1.2,0,131,0,4,273,142
+165,Suisse alémanique,Grisons,40-44 ans,0.7,0,93,0,4,259,166
+166,Suisse alémanique,Grisons,45-49 ans,0.8,0,113,0,6,283,170
+167,Suisse alémanique,Grisons,50-54 ans,1,0,131,0,6,358,227
+168,Suisse alémanique,Grisons,55-59 ans,1,0,120,0,13,299,179
+169,Suisse alémanique,Grisons,60 ans et plus,1,0,108,0,23,272,164
+170,Suisse alémanique,Argovie,15-19 ans,2.2,2.2,360,360,8,501,141
+171,Suisse alémanique,Argovie,20-24 ans,3.9,3.9,1195,1195,23,1466,271
+172,Suisse alémanique,Argovie,25-29 ans,3.6,0,1350,0,159,1852,502
+173,Suisse alémanique,Argovie,30-34 ans,3.4,0,1326,0,175,1924,598
+174,Suisse alémanique,Argovie,35-39 ans,3.2,0,1202,0,174,1751,549
+175,Suisse alémanique,Argovie,40-44 ans,2.5,0,1065,0,176,1511,446
+176,Suisse alémanique,Argovie,45-49 ans,2.3,0,1119,0,165,1623,504
+177,Suisse alémanique,Argovie,50-54 ans,2.7,0,1200,0,214,1741,541
+178,Suisse alémanique,Argovie,55-59 ans,2.8,0,1012,0,259,1513,501
+179,Suisse alémanique,Argovie,60 ans et plus,2.7,0,855,0,345,1263,408
+180,Suisse alémanique,Thurgovie,15-19 ans,2,2,164,164,0,249,85
+181,Suisse alémanique,Thurgovie,20-24 ans,2.5,2.5,353,353,3,545,192
+182,Suisse alémanique,Thurgovie,25-29 ans,2.7,0,421,0,42,754,333
+183,Suisse alémanique,Thurgovie,30-34 ans,2.2,0,330,0,38,652,322
+184,Suisse alémanique,Thurgovie,35-39 ans,2.3,0,321,0,41,602,281
+185,Suisse alémanique,Thurgovie,40-44 ans,1.6,0,270,0,34,511,241
+186,Suisse alémanique,Thurgovie,45-49 ans,1.4,0,284,0,38,582,298
+187,Suisse alémanique,Thurgovie,50-54 ans,1.7,0,334,0,47,660,326
+188,Suisse alémanique,Thurgovie,55-59 ans,2.1,0,298,0,83,571,273
+189,Suisse alémanique,Thurgovie,60 ans et plus,2.2,0,283,0,90,492,209
+190,Suisse romande et Tessin,Fribourg,15-19 ans,2.2,2.2,173,173,0,326,153
+191,Suisse romande et Tessin,Fribourg,20-24 ans,3.7,3.7,510,510,5,719,209
+192,Suisse romande et Tessin,Fribourg,25-29 ans,3.2,0,612,0,27,1033,421
+193,Suisse romande et Tessin,Fribourg,30-34 ans,3.2,0,587,0,36,1020,433
+194,Suisse romande et Tessin,Fribourg,35-39 ans,2.9,0,517,0,51,966,449
+195,Suisse romande et Tessin,Fribourg,40-44 ans,2.3,0,465,0,56,855,390
+196,Suisse romande et Tessin,Fribourg,45-49 ans,2,0,447,0,58,868,421
+197,Suisse romande et Tessin,Fribourg,50-54 ans,2.7,0,520,0,81,923,403
+198,Suisse romande et Tessin,Fribourg,55-59 ans,2.4,0,364,0,82,645,281
+199,Suisse romande et Tessin,Fribourg,60 ans et plus,2.5,0,271,0,90,482,211
+200,Suisse romande et Tessin,Tessin,15-19 ans,4.7,4.7,256,256,2,337,81
+201,Suisse romande et Tessin,Tessin,20-24 ans,5.4,5.4,547,547,13,749,202
+202,Suisse romande et Tessin,Tessin,25-29 ans,3.7,0,563,0,37,905,342
+203,Suisse romande et Tessin,Tessin,30-34 ans,3.6,0,605,0,64,999,394
+204,Suisse romande et Tessin,Tessin,35-39 ans,2.7,0,535,0,79,921,386
+205,Suisse romande et Tessin,Tessin,40-44 ans,2.4,0,563,0,74,1022,459
+206,Suisse romande et Tessin,Tessin,45-49 ans,2.3,0,584,0,96,1079,495
+207,Suisse romande et Tessin,Tessin,50-54 ans,2.9,0,616,0,128,1129,513
+208,Suisse romande et Tessin,Tessin,55-59 ans,3.3,0,546,0,160,940,394
+209,Suisse romande et Tessin,Tessin,60 ans et plus,2.7,0,387,0,144,594,207
+210,Suisse romande et Tessin,Vaud,15-19 ans,2.4,2.4,329,329,0,679,350
+211,Suisse romande et Tessin,Vaud,20-24 ans,5.1,5.1,1575,1575,45,1939,364
+212,Suisse romande et Tessin,Vaud,25-29 ans,5.5,0,2373,0,242,3257,884
+213,Suisse romande et Tessin,Vaud,30-34 ans,5.3,0,2534,0,353,3604,1070
+214,Suisse romande et Tessin,Vaud,35-39 ans,4.7,0,2269,0,364,3227,958
+215,Suisse romande et Tessin,Vaud,40-44 ans,4.1,0,2095,0,420,3052,957
+216,Suisse romande et Tessin,Vaud,45-49 ans,3.8,0,1919,0,411,2821,902
+217,Suisse romande et Tessin,Vaud,50-54 ans,3.9,0,1803,0,426,2661,858
+218,Suisse romande et Tessin,Vaud,55-59 ans,3.9,0,1424,0,436,2137,713
+219,Suisse romande et Tessin,Vaud,60 ans et plus,2.9,0,834,0,318,1272,438
+220,Suisse romande et Tessin,Valais,15-19 ans,2.5,2.5,200,200,0,361,161
+221,Suisse romande et Tessin,Valais,20-24 ans,3.8,3.8,546,546,11,771,225
+222,Suisse romande et Tessin,Valais,25-29 ans,3.5,0,669,0,51,1050,381
+223,Suisse romande et Tessin,Valais,30-34 ans,3.2,0,619,0,53,1004,385
+224,Suisse romande et Tessin,Valais,35-39 ans,3.1,0,552,0,56,919,367
+225,Suisse romande et Tessin,Valais,40-44 ans,2.3,0,475,0,48,798,323
+226,Suisse romande et Tessin,Valais,45-49 ans,2.2,0,485,0,69,886,401
+227,Suisse romande et Tessin,Valais,50-54 ans,2.4,0,522,0,91,936,414
+228,Suisse romande et Tessin,Valais,55-59 ans,2.5,0,421,0,87,766,345
+229,Suisse romande et Tessin,Valais,60 ans et plus,2.6,0,327,0,122,536,209
+230,Suisse romande et Tessin,Neuchâtel,15-19 ans,5.7,5.7,224,224,3,285,61
+231,Suisse romande et Tessin,Neuchâtel,20-24 ans,6.4,6.4,502,502,36,622,120
+232,Suisse romande et Tessin,Neuchâtel,25-29 ans,6.3,0,635,0,114,859,224
+233,Suisse romande et Tessin,Neuchâtel,30-34 ans,5.8,0,597,0,140,800,203
+234,Suisse romande et Tessin,Neuchâtel,35-39 ans,5.4,0,562,0,137,725,163
+235,Suisse romande et Tessin,Neuchâtel,40-44 ans,4.4,0,504,0,127,688,184
+236,Suisse romande et Tessin,Neuchâtel,45-49 ans,4.3,0,531,0,171,736,205
+237,Suisse romande et Tessin,Neuchâtel,50-54 ans,4.5,0,462,0,149,669,207
+238,Suisse romande et Tessin,Neuchâtel,55-59 ans,4.7,0,418,0,171,570,152
+239,Suisse romande et Tessin,Neuchâtel,60 ans et plus,4.5,0,303,0,162,396,93
+240,Suisse romande et Tessin,Genève,15-19 ans,2.2,2.2,99,99,3,218,119
+241,Suisse romande et Tessin,Genève,20-24 ans,5.4,5.4,815,815,15,958,143
+242,Suisse romande et Tessin,Genève,25-29 ans,7.2,0,1824,0,201,2169,345
+243,Suisse romande et Tessin,Genève,30-34 ans,6.6,0,1967,0,323,2425,458
+244,Suisse romande et Tessin,Genève,35-39 ans,5.9,0,1840,0,351,2353,513
+245,Suisse romande et Tessin,Genève,40-44 ans,5.2,0,1625,0,314,2081,456
+246,Suisse romande et Tessin,Genève,45-49 ans,4.4,0,1371,0,314,1789,418
+247,Suisse romande et Tessin,Genève,50-54 ans,4.4,0,1215,0,302,1592,377
+248,Suisse romande et Tessin,Genève,55-59 ans,4,0,869,0,250,1133,264
+249,Suisse romande et Tessin,Genève,60 ans et plus,3.5,0,609,0,253,779,170
+250,Suisse romande et Tessin,Jura,15-19 ans,3.6,3.6,66,66,1,85,19
+251,Suisse romande et Tessin,Jura,20-24 ans,6,6,200,200,11,275,75
+252,Suisse romande et Tessin,Jura,25-29 ans,5.2,0,194,0,42,273,79
+253,Suisse romande et Tessin,Jura,30-34 ans,5.1,0,183,0,34,274,91
+254,Suisse romande et Tessin,Jura,35-39 ans,4.5,0,165,0,40,250,85
+255,Suisse romande et Tessin,Jura,40-44 ans,3.7,0,159,0,47,230,71
+256,Suisse romande et Tessin,Jura,45-49 ans,3.9,0,191,0,70,295,104
+257,Suisse romande et Tessin,Jura,50-54 ans,4,0,181,0,67,268,87
+258,Suisse romande et Tessin,Jura,55-59 ans,4.1,0,157,0,67,247,90
+259,Suisse romande et Tessin,Jura,60 ans et plus,4,0,123,0,67,178,55
+260,Total,,,3,3.2,133169,17709,22213,193624,60455

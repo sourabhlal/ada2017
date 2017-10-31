@@ -1,0 +1,54 @@
+Index,region,Canton,Nationality,Unemploy_rate,Unemploy_rate_Young,Registered_unemployed,Young_Unemployed,Long_period_unemployed,Job_seekers,Job_seekers_Employed
+0,Suisse alémanique,Zurich,Etrangers,5.3,5.8,12111,1015,2106,15384,3273
+1,Suisse alémanique,Zurich,Suisses,2.5,3.2,15114,2405,2647,18772,3658
+2,Suisse alémanique,Berne,Etrangers,5.5,7.7,4900,597,848,6859,1959
+3,Suisse alémanique,Berne,Suisses,1.8,2.2,8758,1406,1488,11526,2768
+4,Suisse alémanique,Lucerne,Etrangers,3.9,4.7,1593,217,181,2902,1309
+5,Suisse alémanique,Lucerne,Suisses,1.3,1.7,2292,447,272,3854,1562
+6,Suisse alémanique,Uri,Etrangers,2.1,,53,6,7,130,77
+7,Suisse alémanique,Uri,Suisses,0.4,0.3,59,9,6,127,68
+8,Suisse alémanique,Schwyz,Etrangers,3.4,3.5,617,67,76,1027,410
+9,Suisse alémanique,Schwyz,Suisses,1.2,1.2,838,118,113,1202,364
+10,Suisse alémanique,Obwald,Etrangers,2.2,,68,4,4,144,76
+11,Suisse alémanique,Obwald,Suisses,0.5,0.6,85,17,6,175,90
+12,Suisse alémanique,Nidwald,Etrangers,2.9,,94,13,8,172,78
+13,Suisse alémanique,Nidwald,Suisses,0.7,0.6,154,18,16,264,110
+14,Suisse alémanique,Glaris,Etrangers,3.4,,184,21,28,363,179
+15,Suisse alémanique,Glaris,Suisses,1.4,1.5,232,39,50,350,118
+16,Suisse alémanique,Zoug,Etrangers,3.9,3.2,717,41,115,1217,500
+17,Suisse alémanique,Zoug,Suisses,1.7,1.5,826,92,133,1398,572
+18,Suisse alémanique,Soleure,Etrangers,5.0,5.2,1569,218,216,2927,1358
+19,Suisse alémanique,Soleure,Suisses,1.9,2.3,2232,366,352,3701,1469
+20,Suisse alémanique,Bâle-Ville,Etrangers,4.6,5.3,1780,145,308,2719,939
+21,Suisse alémanique,Bâle-Ville,Suisses,2.8,4.1,1675,263,298,2449,774
+22,Suisse alémanique,Bâle-Campagne,Etrangers,4.8,5.1,1596,165,233,2288,692
+23,Suisse alémanique,Bâle-Campagne,Suisses,2.2,2.7,2486,359,418,3252,766
+24,Suisse alémanique,Schaffhouse,Etrangers,5.1,6.5,595,82,131,1122,527
+25,Suisse alémanique,Schaffhouse,Suisses,2.2,3.1,691,144,137,1206,515
+26,Suisse alémanique,Appenzell Rhodes-Extérieures,Etrangers,3.4,,179,21,31,306,127
+27,Suisse alémanique,Appenzell Rhodes-Extérieures,Suisses,1.4,1.1,344,44,64,560,216
+28,Suisse alémanique,Appenzell Rhodes-Intérieures,Etrangers,2.0,,23,6,5,33,10
+29,Suisse alémanique,Appenzell Rhodes-Intérieures,Suisses,0.5,0.7,39,10,4,69,30
+30,Suisse alémanique,St-Gall,Etrangers,4.3,4.8,2902,408,405,5079,2177
+31,Suisse alémanique,St-Gall,Suisses,1.5,1.8,3225,638,461,5284,2059
+32,Suisse alémanique,Grisons,Etrangers,2.3,3.1,527,53,18,1257,730
+33,Suisse alémanique,Grisons,Suisses,0.7,1.2,639,141,46,1333,694
+34,Suisse alémanique,Argovie,Etrangers,5.6,5.8,4972,597,821,7280,2308
+35,Suisse alémanique,Argovie,Suisses,2.1,2.6,5712,958,877,7865,2153
+36,Suisse alémanique,Thurgovie,Etrangers,3.9,4.3,1475,188,202,2795,1320
+37,Suisse alémanique,Thurgovie,Suisses,1.4,1.8,1583,329,214,2823,1240
+38,Suisse romande et Tessin,Fribourg,Etrangers,5.0,6.0,1888,269,196,3569,1681
+39,Suisse romande et Tessin,Fribourg,Suisses,2.0,2.4,2578,414,290,4268,1690
+40,Suisse romande et Tessin,Tessin,Etrangers,4.6,6.6,2303,231,337,4034,1731
+41,Suisse romande et Tessin,Tessin,Suisses,2.5,4.7,2899,572,460,4641,1742
+42,Suisse romande et Tessin,Vaud,Etrangers,5.9,5.1,8264,625,1399,12166,3902
+43,Suisse romande et Tessin,Vaud,Suisses,3.5,4.0,8891,1279,1616,12483,3592
+44,Suisse romande et Tessin,Valais,Etrangers,4.9,5.9,2126,287,211,3772,1646
+45,Suisse romande et Tessin,Valais,Suisses,2.1,2.6,2690,459,377,4255,1565
+46,Suisse romande et Tessin,Neuchâtel,Etrangers,7.4,7.7,1970,216,497,2670,700
+47,Suisse romande et Tessin,Neuchâtel,Suisses,4.2,5.7,2768,510,713,3680,912
+48,Suisse romande et Tessin,Genève,Etrangers,5.7,4.7,5942,297,1091,7601,1659
+49,Suisse romande et Tessin,Genève,Suisses,4.8,4.6,6292,617,1235,7896,1604
+50,Suisse romande et Tessin,Jura,Etrangers,9.0,,505,46,164,729,224
+51,Suisse romande et Tessin,Jura,Suisses,3.6,4.7,1114,220,282,1646,532
+52,Total,,,3.0,3.2,133169,17709,22213,193624,60455
