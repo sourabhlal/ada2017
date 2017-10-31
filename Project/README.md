@@ -32,20 +32,20 @@ The primary dataset that we would like to use is the [Amazon Review Dataset](htt
 There are multiple configurations of the dataset that will be useful for our project, and each one has a different size depending on what we want to use if for:
 
 * Raw review data:
- * 20GB
- * 142.8 million review
- * All the data
+  * 20GB
+  * 142.8 million review
+  * All the data
 
 * Cleaned review data: 
- * 18GB
- * 83.68 million reviews.
- * Removed duplicate reviews
- * Two versions: sorted by user, and sorted by product
+  * 18GB
+  * 83.68 million reviews.
+  * Removed duplicate reviews
+  * Two versions: sorted by user, and sorted by product
 
 * 5-core data:
- * 9.9GB
- * 41.13 million reviews
- * Only contains reviews for products with 5 or more reviews, or by reviewers with 5 or more reviews.
+  * 9.9GB
+  * 41.13 million reviews
+  * Only contains reviews for products with 5 or more reviews, or by reviewers with 5 or more reviews.
 
 For each of the above types of datasets, there is a breakdown available by category of varying size. There are other variations of the dataset too, but they will not be of use for our project.
 
