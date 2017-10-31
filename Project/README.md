@@ -81,7 +81,19 @@ We would like to enrich this dataset by looking at external events, for which we
 
 
 # A list of internal milestones up until project milestone 2
-Add here a sketch of your planning for the next project milestone.
+![Gantt Chart](https://github.com/sourabhlal/ada2017/blob/master/Project/Images/Gantt.JPG "Gantt Chart")
 
-# Questions for TAa
+To illustrate the entire project plan we have made a Gantt diagram showing the headlines of all tasks that needs to be completed and at what time we expect to be working on them. All big milestones are marked with a red line. For now we will focus on the time until the next Milestone 2 and therefore this time period and the tasks related has been highlighted.
+
+As we see on the diagram the main task (including internal milestones) until then are:
+
+**Data Collection:** We need to fully understand the dataset and have access to it so that all members are able to work efficiently with it. Preferably this will be done around mid November.
+
+**Descriptive Analysis:** Here we will look at the attributes of the dataset and compute statistics for the whole dataset and aggregated by categories. This has to be completed by 28th of November.
+
+**Deeper analysis:** This part will begin mid November with deciding more precisely which methods will be used and by the end of November this task should have been somewhat explored.
+
+**Jupyter Notebook:** The Jupyter Notebook will be created soon and finished code will be added to it after experimenting elsewhere. The code for the data collection and descriptive statistics should be added along with descriptions before end of November.
+
+# Questions for TAs
 Add here some questions you have for us, in general or project-specific.
