@@ -96,4 +96,6 @@ As we see on the diagram the main task (including internal milestones) until the
 **Jupyter Notebook:** The Jupyter Notebook will be created soon and finished code will be added to it after experimenting elsewhere. The code for the data collection and descriptive statistics should be added along with descriptions before end of November.
 
 # Questions for TAs
-Add here some questions you have for us, in general or project-specific.
+* How specific does our story have to be (only one category or full dataset)
+* Is it necessary to enrich our dataset with other data, or can we work with just the current dataset? For example, when tackling one-off events, we can add them up from another dataset, or add key events that we know about (e.g. hurricane katrina, 9/11, etc)
+
