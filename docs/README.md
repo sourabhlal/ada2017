@@ -39,7 +39,7 @@ Naturally, many people, whether happy or disappointed, will want to share their 
 <iframe width="100%" height="400" src="/ada2017/images/6_Length_reviews.html" frameborder="0"></iframe>
 
 ### Plot 7:
-<iframe width="100%" height="400" src="/ada2017/images/7_sentiment_evolution.html" frameborder="0"></iframe>
+![Sentiment Analysis](/ada2017/images/7_sentiment_scores.png)
 
 ### Plot 8:
 <iframe width="100%" height="400" src="/ada2017/images/8_Overall_evolution.html" frameborder="0"></iframe>
