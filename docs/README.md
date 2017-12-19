@@ -60,39 +60,23 @@ We observe a drastic drop in the length of reviews that occurs at the end of 201
 ![box](/ada2017/images/box2.PNG)
 
 
+# Amazon Claus brings joy to all?
+In order to know whether the Christmas season or perhaps the sunshine of the summer would change the sentiment of the reviews, we looked for trends in this type of data using both IBM Watson and NLTK Vader to compute the sentiment. Although NLTK Vader is trained on social media data, and tests have revealed that it isn’t the best estimator of sentiment in Amazon Reviews (precision = 0.78 and recall = 0.55 ) [Vader](http://comp.social.gatech.edu/papers/icwsm14.vader.hutto.pdf), we decided to use it as it was the best available means for this project. We used IBM Watson for some analysis too but it was impractical given the high amount of data we had to process.
 
-
-
-### Plot 7:
 ![Sentiment Analysis](/ada2017/images/7_sentiment_scores.png)
 
-### Plot 8:
-<iframe width="100%" height="400" src="/ada2017/images/8_Overall_evolution.html" frameborder="0"></iframe>
+In the NLTK Vader sentiment scores we see that the negative sentiment seem to remain steady throughout the whole period, except for the first years were, as always, the variance is very high. For the positive sentiment we observe an increase at the end of 2012 and we see that the positive sentiment is in general higher than the negative.
 
-### Plot 9:
 ![Categorical Sentiment Analysis](/ada2017/images/sentiment.PNG)
 
-### Plot 10:
-![Vairable Distribution](/ada2017/images/distribution_Variables.png)
+Further using IBM Watson we computed an averaged sentiment score by sub-category. What this revealed was that most categories average sentiment stayed fairly consistent across the 12 years when we had sufficient data to compute them. However, we can notice that some categories consistently were associated with a higher sentiment than others - for example, Camera & Photo was consistently higher than GPS and Navigation.
 
-### Plot 11:
-![Categorical Distribution](/ada2017/images/distribution_across_categories.png)
+We wanted to compare this to the ratings of products, called their overall score. Below we have plotted the daily average overall score. Interestingly we observe the same kind of jump at the end of 2012. Here the overall score have a sudden increase which fits intuitively well with the jump in positive sentiment. 
 
-### Plot 12:
-![Overall Distribution](/ada2017/images/distribution_overall.png)
+<iframe width="100%" height="400" src="/ada2017/images/8_Overall_evolution.html" frameborder="0"></iframe>
 
+# Is it all related to the holiday season?
+We thus have three attributes of the reviews; positive sentiment, overall score and length, that undergoes a sudden change at the end of 2012. They all seem to stay at a new level. These increases happen at the same time as we have an extreme increase in the amount of reviews. Remarkably all these trends are observable again at the very end of 2013, but all on a smaller scale. This all leads us to suspect a relation between all these variables and then again a relation to the christmas holiday season.
 
-
-
-
-
-
-
-
-
-The amount of reviews written on Amazon is of course a different thing than the amount of sales, however, we did suspect that a the impressive trend in the growth of Amazons marketshare could naturally be expected to have a co 
-The first step of our project was to visualize the number of reviews from 1996 to 2014. 
-this is a good indicator on how people’s use of  amazon reviews has evolved through the years.
-
-We group the reviews according to the category of the corresponding product and we notice that they all follow the same trend , although at different scales depending on the number of products they contain.
+A suspicion is often the beginning of interesting discoveries and therefore we followed this path further to try to get a more substantial indicator of the relations between all these factors. From looking at correlations we found that they are all slightly related as we expected but unfortunately the correlations are not significant enough for us to draw solid conclusion. This might be due to very high variance within all the variables. Consequently, further analysis would have to be carried out to really be able to either confirm or deny our suspicion.
 
