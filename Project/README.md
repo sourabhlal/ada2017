@@ -1,6 +1,9 @@
 # Title
 Amazin’ Amazon Trends
 
+# Data Story: 
+https://sourabhlal.github.io/ada2017/
+
 # Abstract
 The goal of our project is to study the Amazon products categories and analyze them through the reviews left by the consumers. This analysis will be conducted in three parts : 
 
