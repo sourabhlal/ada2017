@@ -21,7 +21,7 @@ Naturally, many people, whether happy or disappointed, will want to share their 
 <iframe width="100%" height="400" src="/ada2017/images/1_Daily_reviews_electronics.html" frameborder="0"></iframe>
 
 ### Plot 2:
-<iframe width="100%" height="400" src="/ada2017/images/1_Daily_reviews_electronics.html" frameborder="0"></iframe>
+<iframe width="100%" height="400" src="/ada2017/images/2_Number_Reviews.html" frameborder="0"></iframe>
 
 ### Plot 3:
 ![Seasonal Decomposition](/ada2017/images/3_seasonal_decomposition.png)
@@ -32,8 +32,29 @@ Naturally, many people, whether happy or disappointed, will want to share their 
 ### Plot 4:
 ![Trend](/ada2017/images/4_zoom_weekly_pattern.png)
 
+### Plot 5:
+<iframe width="100%" height="400" src="/ada2017/images/5_Comparison_number_review_categories.html" frameborder="0"></iframe>
 
+### Plot 6:
+<iframe width="100%" height="400" src="/ada2017/images/6_Length_reviews.html" frameborder="0"></iframe>
 
+### Plot 7:
+<iframe width="100%" height="400" src="/ada2017/images/7_sentiment_evolution.html" frameborder="0"></iframe>
+
+### Plot 8:
+<iframe width="100%" height="400" src="/ada2017/images/8_Overall_evolution.html" frameborder="0"></iframe>
+
+### Plot 9:
+sub category sentiment analysis
+
+### Plot 10:
+![Vairable Distribution](/ada2017/images/distribution_Variables.png)
+
+### Plot 11:
+![Categorical Distribution](/ada2017/images/distribution_across_categories.png)
+
+### Plot 12:
+![Overall Distribution](/ada2017/images/distribution_overall.png)
 
 
 
