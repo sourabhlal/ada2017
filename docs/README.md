@@ -18,22 +18,22 @@ Naturally, many people, whether happy or disappointed, will want to share their 
 
 
 ### Plot 1:
-<iframe width="100%" height="400" src="/ada2017/images/1_Daily_reviews_electronics.html" frameborder="0"></iframe>
+<iframe width="100%" height="400" src="/ada2017/images/1_number.html" frameborder="0"></iframe>
 
 ### Plot 2:
-<iframe width="100%" height="400" src="/ada2017/images/2_Number_Reviews.html" frameborder="0"></iframe>
+category breakdown (each year has line)
 
 ### Plot 3:
 ![Seasonal Decomposition](/ada2017/images/3_seasonal_decomposition.png)
 
 ### Plot 3b:
-![Trend](/ada2017/images/4_trend.png)
+![TRENDS](/ada2017/images/4_trend.png)
 
 ### Plot 4:
-![Trend](/ada2017/images/4_zoom_weekly_pattern.png)
+![Weekly patterns](/ada2017/images/4_zoom_weekly_pattern.png)
 
 ### Plot 5:
-<iframe width="100%" height="400" src="/ada2017/images/5_Comparison_number_review_categories.html" frameborder="0"></iframe>
+![Category breakdown number of reviews](/ada2017/images/Categories_number_reviews.png)
 
 ### Plot 6:
 <iframe width="100%" height="400" src="/ada2017/images/6_Length_reviews.html" frameborder="0"></iframe>
