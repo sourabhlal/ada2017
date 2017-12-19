@@ -22,7 +22,7 @@ The data we examine in this project comes from the [McAuley Amazon Review Datase
 #Testing iframe
 
 
-<iframe width="1000" height="600" src="/ada2017/images/1_Daily_reviews_electronics.html" frameborder="0"></iframe>
+<iframe width="100%" height="550" src="/ada2017/images/1_Daily_reviews_electronics.html" frameborder="0"></iframe>
 
 
 
