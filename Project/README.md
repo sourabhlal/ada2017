@@ -101,8 +101,9 @@ As we see on the diagram the main task (including internal milestones) until the
 
 # Distribution of the tasks : 
 Most of the tasks were carried out in parallel by the three of us and the results were discussed together.Other then taht we did the following :
-**Sonia Alouini** : Data preprocessing + Timelines analysis  + Correlation plots
-**Charlotte Theisen**: Data preprocessing + MetaData processing + website creation
-**Sourabh Lal**: Data preprocessing + Sentiment Analysis (IBM and Vader) and Website creation 
+
+- **Sonia Alouini** : Data preprocessing + Timelines analysis  + Correlation plots
+- **Charlotte Theisen**: Data preprocessing + MetaData processing + website creation
+- **Sourabh Lal**: Data preprocessing + Sentiment Analysis (IBM and Vader) and Website creation 
 
 **Presentation** :sourabh Lal
