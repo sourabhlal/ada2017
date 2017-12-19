@@ -45,7 +45,7 @@ Naturally, many people, whether happy or disappointed, will want to share their 
 <iframe width="100%" height="400" src="/ada2017/images/8_Overall_evolution.html" frameborder="0"></iframe>
 
 ### Plot 9:
-sub category sentiment analysis
+![Categorical Sentiment Analysis](/ada2017/images/sentiment.PNG)
 
 ### Plot 10:
 ![Vairable Distribution](/ada2017/images/distribution_Variables.png)
