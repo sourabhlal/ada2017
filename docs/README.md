@@ -1,6 +1,5 @@
 # Amazin' Amazon Trends
 
-## Introduction
 Amazon.com has been making waves for the past decade or so, as they grow stronger and stronger. What once started as a small online bookstore, has now become not just America’s largest retailer; it is bigger than most brick and mortar retailers in America put together.
 
 ![Amazon_growth](/ada2017/images/amazon_growth.PNG)
@@ -8,28 +7,21 @@ Amazon.com has been making waves for the past decade or so, as they grow stronge
 
 We are right in the middle of America’s great retail period; the holiday season from Thanksgiving until Christmas!  Amazon has said the 2016 holidays were its best-ever shopping season. During the winter holiday season, not only did they sell 50% more items than the previous year, but they also doubled their total sales for 2016 [(Source)](http://fortune.com/2017/01/04/amazon-marketplace-sales/).
 
-We suspect that we will see this sort of incredible growth again this year, and so we decided to delve into the data to see what trends we could find!
+One of the consequences of this amazing growth has been an explosion of data. Every product sold on amazon has metadata than can be analyzed and insights can be gained. Furthermore, Amazon has excelled in collecting consumer reviews of products sold on their website and we have desicided to delve into the data to see what trends and patterns we could find!
 
-One of the consequences of this amazing growth has been an explosion of data. Every product sold on amazon has metadata than can be analyzed and insights can be gained.
+The data we examine in this project comes from the [McAuley Amazon Review Dataset](http://jmcauley.ucsd.edu/data/amazon/). This dataset contains reviews of products sold on Amazon spanning a time period from May 1996 to July 2014, as well metadata about each of these products. 
 
-### The Dataset
-Naturally, many people, whether happy or disappointed, will want to share their opinion of their new product with the world. This is where the product reviews posted on Amazon.com are incredibly useful.
-
-The data we examine in this project comes from the [McAuley Amazon Review Dataset](http://jmcauley.ucsd.edu/data/amazon/). This dataset contains reviews of products sold on Amazon spanning a time period from May 1996 to July 2014, as well metadata about each of these products. While we investigated several product categories, in this data story we are going to focus on the Electronics category as it is one of Amazon’s best sellers and had the most data with over 1.5 million reviews.
-
+Naturally, many people, whether happy or disappointed, will want to share their opinion of their new product with the world. Even within  the single product category Electronics, more than 1.5 million reviews have been written by the consumers. This is the category we will examine further here, but it should be noted that we have looked at other categories and observed similar trends and patterns.
 
 
 #Testing iframe
 
 
-<iframe width="100%" height="550" src="/ada2017/images/1_Daily_reviews_electronics.html" frameborder="0"></iframe>
+<iframe width="100%" height="450" src="/ada2017/images/1_Daily_reviews_electronics.html" frameborder="0"></iframe>
 
 
-
-
-
-# To be titled
-
+# Amazin' growth
+The amount of reviews written on Amazon is of course a different thing than the amount of sales, however, we did suspect that a the impressive trend in the growth of Amazons marketshare could naturally be expected to have a co 
 The first step of our project was to visualize the number of reviews from 1996 to 2014. 
 this is a good indicator on how people’s use of  amazon reviews has evolved through the years.
 
