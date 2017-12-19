@@ -57,6 +57,8 @@ It seems that the average daily length of the reviews tends to be longer during 
 
 We observe a drastic drop in the length of reviews that occurs at the end of 2012. This is not as easy to explain. We tried to examine whether this could be due to some kind of restriction from Amazon, but that does not seem to be the case, as we still have the very long reviews in after 2012.
 
+![box](/ada2017/images/box2.PNG)
+
 
 
 
