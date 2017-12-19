@@ -14,13 +14,36 @@ The data we examine in this project comes from the [McAuley Amazon Review Datase
 Naturally, many people, whether happy or disappointed, will want to share their opinion of their new product with the world. Even within  the single product category Electronics, more than 1.5 million reviews have been written by the consumers. This is the category we will examine further here, but it should be noted that we have looked at other categories and observed similar trends and patterns.
 
 
-#Testing iframe
-
-
-<iframe width="100%" height="450" src="/ada2017/images/1_Daily_reviews_electronics.html" frameborder="0"></iframe>
-
-
 # Amazin' growth
+
+
+### Plot 1:
+<iframe width="100%" height="400" src="/ada2017/images/1_Daily_reviews_electronics.html" frameborder="0"></iframe>
+
+### Plot 2:
+<iframe width="100%" height="400" src="/ada2017/images/1_Daily_reviews_electronics.html" frameborder="0"></iframe>
+
+### Plot 3:
+![Seasonal Decomposition](/ada2017/images/3_seasonal_decomposition.png)
+
+### Plot 3b:
+![Trend](/ada2017/images/4_trend.png)
+
+### Plot 4:
+![Trend](/ada2017/images/4_zoom_weekly_pattern.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
 The amount of reviews written on Amazon is of course a different thing than the amount of sales, however, we did suspect that a the impressive trend in the growth of Amazons marketshare could naturally be expected to have a co 
 The first step of our project was to visualize the number of reviews from 1996 to 2014. 
 this is a good indicator on how people’s use of  amazon reviews has evolved through the years.
