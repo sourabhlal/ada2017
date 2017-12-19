@@ -1,0 +1,9 @@
+# basic options
+title: Ada - blog
+author: Charlotte Friis Theisen, Sonia Alouni and Sourabh Lal
+description: On ths site you will find a blog post with a data story as part of our final project for the ada course
+github_username:  sourabhlal
+
+# Build settings
+markdown: kramdown
+theme: minima
