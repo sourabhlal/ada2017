@@ -1,8 +1,10 @@
 # basic options
 title: Ada - blog
 author: Charlotte Friis Theisen, Sonia Alouni and Sourabh Lal
-description: On ths site you will find a blog post with a data story as part of our final project for the ada course
+description: On this site you will find a blog post with a data story as part of our final project for the ada course
 github_username:  sourabhlal
+github_username:  charlottetheisen
+github_username:  soniaalouni
 
 # Build settings
 markdown: kramdown
