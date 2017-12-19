@@ -20,6 +20,17 @@ Naturally, many people, whether happy or disappointed, will want to share their 
 
 The data we examine in this project comes from the [McAuley Amazon Review Dataset](http://jmcauley.ucsd.edu/data/amazon/). This dataset contains reviews of products sold on Amazon spanning a time period from May 1996 to July 2014, as well metadata about each of these products. While we investigated several product categories, in this data story we are going to focus on the Electronics category as it is one of Amazon’s best sellers and had the most data with over 1.5 million reviews.
 
+
+
+#Testing iframe
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6ZfuNTqbHE8?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="/ada2017/images/1_Daily_reviews_electronics.html" frameborder="0"></iframe>
+
+
+
+
+
 # To be titled
 
 The first step of our project was to visualize the number of reviews from 1996 to 2014. 
