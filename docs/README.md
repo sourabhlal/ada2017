@@ -35,8 +35,6 @@ We have already mentioned how the increase in sales during the christmas season 
 
 To answer this question we look at the time series decomposition of the data.This decomposes the data into a trend component, a seasonal component and a residual. The latter is the variation in the number of reviews that cannot be modeled by the former two components.
 
-![TRENDS](/ada2017/images/4_trend.png)
-
 ![Seasonal Decomposition](/ada2017/images/3_seasonal_decomposition.png)
 
 The decomposition is only done on the time period from 2007 to 2011, since the jump in the number of reviews after that is too large to be captured by the model and the years before that have to little data to yield interesting results. Looking at the seasonal component, we see a clear spike right around every new year fitting surprisingly well with the Christmas season. Even though 2012 and 2013 are not taken into account in this plot it should still be noted that we can observe the same phenomena for this year.
@@ -51,13 +49,17 @@ We tried to investigate whether there is another form of seasonality left in the
 
 Here it seems like the customers prefer to review their new products during the weekdays. Clearly less reviews are written on Saturday and Sunday, and Thursday seems to be the preferred day of the week for writing reviews.
 
+# Have the reviewers become lazy?
+An interesting pattern that we notice in the data is the evolution of the length of the reviews. 
+It seems that the average daily length of the reviews tends to be longer during the years 2008-2012 compared to the years 2013-2014. Before 2008 there were so few reviews that the variance is huge and we cannot say a lot about that period.
 
-
-
-
-
-### Plot 6:
 <iframe width="100%" height="400" src="/ada2017/images/6_Length_reviews.html" frameborder="0"></iframe>
+
+We observe a drastic drop in the length of reviews that occurs at the end of 2012. This is not as easy to explain. We tried to examine whether this could be due to some kind of restriction from Amazon, but that does not seem to be the case, as we still have the very long reviews in after 2012.
+
+
+
+
 
 ### Plot 7:
 ![Sentiment Analysis](/ada2017/images/7_sentiment_scores.png)
