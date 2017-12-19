@@ -2,6 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-body{
-    color: green;
+.page-header{
+    background-color: red;
+    background-image: linear-gradient(120deg,red,blue);
 }
