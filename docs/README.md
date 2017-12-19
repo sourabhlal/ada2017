@@ -61,7 +61,7 @@ We observe a drastic drop in the length of reviews that occurs at the end of 201
 
 
 # Amazon Claus brings joy to all?
-In order to know whether the Christmas season or perhaps the sunshine of the summer would change the sentiment of the reviews, we looked for trends in this type of data using both IBM Watson and NLTK Vader to compute the sentiment. Although NLTK Vader is trained on social media data, and tests have revealed that it isn’t the best estimator of sentiment in Amazon Reviews (precision = 0.78 and recall = 0.55 ) [Vader](http://comp.social.gatech.edu/papers/icwsm14.vader.hutto.pdf), we decided to use it as it was the best available means for this project. We used IBM Watson for some analysis too but it was impractical given the high amount of data we had to process.
+In order to know whether the Christmas season or perhaps the sunshine of the summer would change the sentiment of the reviews, we looked for trends in this type of data using both IBM Watson and NLTK Vader to compute the sentiment. Although NLTK Vader is trained on social media data, and tests have revealed that it isn’t the best estimator of sentiment in Amazon Reviews [(precision = 0.78 and recall = 0.55 )](http://comp.social.gatech.edu/papers/icwsm14.vader.hutto.pdf), we decided to use it as it was the best available means for this project. We used IBM Watson for some analysis too but it was impractical given the high amount of data we had to process.
 
 ![Sentiment Analysis](/ada2017/images/7_sentiment_scores.png)
 

@@ -103,10 +103,10 @@ As we see on the diagram the main task (including internal milestones) until the
 * Is it necessary to enrich our dataset with other data, or can we work with just the current dataset? For example, when tackling one-off events, we can add them up from another dataset, or add key events that we know about (e.g. hurricane katrina, 9/11, etc)
 
 # Distribution of the tasks : 
-Most of the tasks were carried out in parallel by the three of us and the results were discussed together.Other then taht we did the following :
+Most of the tasks were carried out in parallel by the three of us and the results were discussed together.Other then that we did the following :
 
 - **Sonia Alouini** : Data preprocessing + Timelines analysis  + Correlation plots
-- **Charlotte Theisen**: Data preprocessing + MetaData processing + website creation
-- **Sourabh Lal**: Data preprocessing + Sentiment Analysis (IBM and Vader) and Website creation 
+- **Charlotte Theisen**: Data preprocessing + MetaData processing + Website creation
+- **Sourabh Lal**: Data Exploration + Sentiment Analysis (IBM and Vader) and Visualizations + Website creation 
 
-**Presentation** :sourabh Lal
+**Presentation** : Sourabh Lal
