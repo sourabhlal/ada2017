@@ -21,7 +21,7 @@ Naturally, many people, whether happy or disappointed, will want to share their 
 <iframe width="100%" height="400" src="/ada2017/images/1_number.html" frameborder="0"></iframe>
 
 ### Plot 2:
-category breakdown (each year has line)
+<iframe width="100%" height="400" src="/ada2017/images/2_number.html" frameborder="0"></iframe>
 
 ### Plot 3:
 ![Seasonal Decomposition](/ada2017/images/3_seasonal_decomposition.png)
